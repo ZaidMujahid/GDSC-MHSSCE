@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GDSC-MHSSCE/static/css/main.9075cec3.css",
+    "main.js": "/GDSC-MHSSCE/static/js/main.07e173b4.js",
+    "static/js/787.62228c38.chunk.js": "/GDSC-MHSSCE/static/js/787.62228c38.chunk.js",
+    "static/media/mhssc.png": "/GDSC-MHSSCE/static/media/mhssc.1f09ab4e52b990258a17.png",
+    "static/media/contribute.jpg": "/GDSC-MHSSCE/static/media/contribute.5d358cb6de25d1484fca.jpg",
+    "static/media/about-gdsc.png": "/GDSC-MHSSCE/static/media/about-gdsc.a2b5dfc345ec4302064b.png",
+    "static/media/hero-section.png": "/GDSC-MHSSCE/static/media/hero-section.f6e987d497a6d90c08cf.png",
+    "static/media/contribute2.jpg": "/GDSC-MHSSCE/static/media/contribute2.943d3430d75476b02069.jpg",
+    "static/media/post.jpg": "/GDSC-MHSSCE/static/media/post.96ce4ea3a8e26cfbf358.jpg",
+    "static/media/profile-pic.png": "/GDSC-MHSSCE/static/media/profile-pic.c3f945216dc12c9498dc.png",
+    "static/media/center-align-logo.png": "/GDSC-MHSSCE/static/media/center-align-logo.c3f6faeadf2e6f5ab815.png",
+    "static/media/left-align-logo.png": "/GDSC-MHSSCE/static/media/left-align-logo.64562ac948674ab25c84.png",
+    "static/media/code-bracket.png": "/GDSC-MHSSCE/static/media/code-bracket.1a688f2ee69ffa4ed01e.png",
+    "index.html": "/GDSC-MHSSCE/index.html",
+    "main.9075cec3.css.map": "/GDSC-MHSSCE/static/css/main.9075cec3.css.map",
+    "main.07e173b4.js.map": "/GDSC-MHSSCE/static/js/main.07e173b4.js.map",
+    "787.62228c38.chunk.js.map": "/GDSC-MHSSCE/static/js/787.62228c38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9075cec3.css",
+    "static/js/main.07e173b4.js"
+  ]
+}
